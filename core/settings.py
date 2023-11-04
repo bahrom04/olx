@@ -37,10 +37,13 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-
+    # DRF
+    'rest_framework',
+    
     # apps
     'categoty.apps.CategotyConfig',
     'results.apps.ResultsConfig',
+    'olx.apps.OlxConfig',
     
 ]
 
