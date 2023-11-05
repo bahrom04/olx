@@ -1,3 +1,6 @@
 .venv
 results
 db.sqlite3
+results
+static
+categoty
